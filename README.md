@@ -1,3 +1,3 @@
 # Portfolio
-My personal portfolio using basic of html and css.
+My personal portfolio where you can view my skills, projects and achivements.
 
